@@ -12,7 +12,7 @@ Word Database: A collection of words is included in the game, and a random word 
 
 # Installation
 1. Clone the repository:
-git clone https:
+git clone https: https://github.com/ArmanAtwal/Wordle
 2. Install the required dependencies. Make sure you have Python and Pygame installed on your system.
 pip install pygame
 
