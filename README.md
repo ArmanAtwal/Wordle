@@ -1,4 +1,5 @@
 # Wordle Clone
+<img width="625" alt="Screenshot 2023-07-18 at 3 20 00 PM" src="https://github.com/ArmanAtwal/Wordle/assets/139921617/241a03de-8179-4cf2-a76c-6ba3a1ba5565">
 
 # Description
 Wordle Game is a simple word-guessing game developed using the Pygame library. The objective of the game is to guess a five-letter word within six attempts. The game features a responsive user interface with intuitive letter selection and deletion functionalities, providing an interactive and enjoyable gaming experience.
